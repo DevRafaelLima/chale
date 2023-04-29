@@ -7,13 +7,13 @@ Para rodar este projeto, você precisará ter o Node.js instalado em seu computa
 1. Clone este repositório em seu computador usando o comando:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DevRafaelLima/chale/edit/master/README.MD
 ```
 
 2. Instale as dependências do projeto usando o gerenciador de pacotes npm:
 
  ```
-cd nome-do-repositorio
+cd chale
 npm install 
  ```
 
