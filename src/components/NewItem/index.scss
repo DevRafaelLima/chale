@@ -1,0 +1,17 @@
+.NewItem {
+    margin-top: 3px;
+    display: flex;
+    background-color: #ded9b7;
+    .info {
+        margin-left: 5px;
+        flex: 1;
+        h3{
+            color: #705b2d;
+            font-size: 22px;
+        }
+        p {
+            margin: 0;
+            padding: 0;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+.PageIndex {
+    padding: 10px;
+    max-width: 1180px;
+    margin: auto;
+    display: flex;
+    aside {
+        flex: 1;
+        background-color: #e9e5c9;
+        padding: 10px;
+    }
+    article {
+        flex: 1;
+        p {
+            font-size: 18px;
+            margin: 10px;
+            text-align: justify;
+            text-indent: 50px;
+        }
+    }
+    h2 {
+        color: #7d7640;
+        font-size: 25px;
+    }
+    
+}
