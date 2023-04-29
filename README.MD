@@ -1,4 +1,4 @@
-# Site Chelé
+# Site Chalé
 Este projeto começou como um simples website desenvolvido em HTML e CSS enquanto eu estava aprendendo sobre tecnologias da web. Depois de algum tempo, decidi atualizá-lo para usar React, TypeScript e SASS.
 ## <b>Rodando o Projeto</b>
 
